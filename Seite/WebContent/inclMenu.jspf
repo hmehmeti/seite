@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="./css/navi.css">
+
+<div id=" " style="width: 200px; float:left;" border="0">
+	<!--  
+	<ul>
+		<li><a href="infrastruktur/">Infrastruktur</a>
+			<ul>
+				<li ><a href="infrastruktur/verkehrswegebau/"><span>Verkehrswegebau</span></a></li>
+				<li ><a href="infrastruktur/brueckenbau/"><span>Brückenbau</span></a></li>
+			</ul>
+         </li>
+		<li><a href="stahlbau/">Stahlbau</a>
+		
+			<ul>
+				<li ><a href="stahlbau/werkfertigung/"><span>Werkfertigung</span></a></li>
+				<li ><a href="stahlbau/hochbau/"><span>Hochbau</span></a></li>
+				<li ><a href="stahlbau/stadiondaecher/"><span>Stadiondächer</span></a></li>
+				<li ><a href="stahlbau/verkehrsbauten/"><span>Verkehrsbauten</span></a></li>
+				<li ><a href="stahlbau/brueckenbau/"><span>Brückenbau</span></a></li>
+			</ul>
+		</li>
+		<li><a href='#'><span>About</span></a></li>
+   <li class='last'><a href='#'><span>Contact</span></a></li>
+	</ul>
+	-->
+	<li>
+<a href="#rechnung/uebersicht" data-step="3" id="idf8" data-link-type="content-panel">Rechnung</a>
+
+<ul class="m-navigation-c-level2">
+
+<li id="idfb">
+<a id="idfc" href="#rechnung/download" data-link-type="content-panel">Aktuelle Rechnung</a>
+</li>
+<li id="idfd">
+<a id="idfe" href="#rechnung/archiv" data-link-type="content-panel">Rechnungen der letzten sechs Monate</a>
+</li>
+
+<li id="idff">
+<a id="id100" href="#rechnung/aufstellung" data-link-type="content-panel">Übersicht Ihrer Rechnungen</a>
+</li>
+
+<li id="id102">
+<a id="id103" href="#rechnung/bankverbindung" data-link-type="content-panel">Bankverbindung</a>
+</li>
+<li id="id104" style="display:none"></li>
+<li id="id105">
+<a id="id106" href="#rechnung/versandart+subscriptionId=2026729214" data-link-type="content-panel">Versandart</a>
+</li>
+<li id="id107">
+<a id="id108" href="#rechnung/evn" data-link-type="content-panel">Einzelverbindungsnachweis</a>
+</li>
+<li id="id109">
+<a id="id10a" href="#rechnung/rechnungsanschrift" data-link-type="content-panel">Rechnungsadresse</a>
+</li>
+<li id="id10b">
+<a id="id10c" href="#rechnung/e-mail-adresse" data-link-type="content-panel">E-Mail-Adresse für Online-Rechnung</a>
+</li>
+
+</ul>
+
+</li>
+	
+	
+	
+</div>
